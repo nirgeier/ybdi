@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ybdi-ltd.com",
+  "Id": "3fe18716-56a9-4608-bea6-bcb9581c2ddb"
+}
